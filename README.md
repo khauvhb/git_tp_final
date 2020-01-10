@@ -39,7 +39,7 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 Noms des étudiants : 
 * Khauv Henri
 * Alili Youba
-* Abdoul madjib
+* Diaby Abdoul
 
 Date du jour : 10/01/2020
 
@@ -51,9 +51,9 @@ Faites donc un **commit** et **pushez** moi tout ça sur master (sur **votre** d
 ### Exercice 3 : Travail d'équipe ! (5 points)
 
 Pour cet exercice, je vais appeler les collaborateurs :
-* collaborateur 1
-* collaborateur 2
-* collaborateur 3
+ALILI Youba
+KHAUV Henri
+DIABY Abdoul
 
 selon l'ordre dans lequel vous avez mis vos noms dans la présentation.
 
